@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="6" failures="0" name="ec.edu.epn.git.calculator.CalculatorParametersTest" time="0.036" errors="0" skipped="0">
+<testsuite tests="6" failures="0" name="ec.edu.epn.git.calculator.CalculatorParametersTest" time="0.02" errors="0" skipped="0">
   <properties>
     <property name="idea.version" value="2020.3.1"/>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
@@ -64,10 +64,10 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="ec.edu.epn.git.calculator.CalculatorParametersTest" name="given_parameters_when_addition_then_summation[0]" time="0.021"/>
-  <testcase classname="ec.edu.epn.git.calculator.CalculatorParametersTest" name="given_parameters_when_addition_then_summation[1]" time="0.012"/>
+  <testcase classname="ec.edu.epn.git.calculator.CalculatorParametersTest" name="given_parameters_when_addition_then_summation[0]" time="0.015"/>
+  <testcase classname="ec.edu.epn.git.calculator.CalculatorParametersTest" name="given_parameters_when_addition_then_summation[1]" time="0"/>
   <testcase classname="ec.edu.epn.git.calculator.CalculatorParametersTest" name="given_parameters_when_addition_then_summation[2]" time="0.001"/>
-  <testcase classname="ec.edu.epn.git.calculator.CalculatorParametersTest" name="given_parameters_when_addition_then_summation[3]" time="0.001"/>
-  <testcase classname="ec.edu.epn.git.calculator.CalculatorParametersTest" name="given_parameters_when_addition_then_summation[4]" time="0.001"/>
+  <testcase classname="ec.edu.epn.git.calculator.CalculatorParametersTest" name="given_parameters_when_addition_then_summation[3]" time="0.002"/>
+  <testcase classname="ec.edu.epn.git.calculator.CalculatorParametersTest" name="given_parameters_when_addition_then_summation[4]" time="0.002"/>
   <testcase classname="ec.edu.epn.git.calculator.CalculatorParametersTest" name="given_parameters_when_addition_then_summation[5]" time="0"/>
 </testsuite>
